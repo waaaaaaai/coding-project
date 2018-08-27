@@ -1,3 +1,6 @@
 [submodule "hujia-data-visualisation"]
 	path = hujia-data-visualisation
 	url = https://github.com/waaaaaaai/hujia-data-visualisation.git
+[submodule "vue.js/vueinterface"]
+	path = vue.js/vueinterface
+	url = https://github.com/waaaaaaai/vueinterface.git
