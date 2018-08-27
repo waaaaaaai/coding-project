@@ -7,3 +7,6 @@
 [submodule "portfolio/hadoop-coursera"]
 	path = portfolio/hadoop-coursera
 	url = https://github.com/waaaaaaai/hadoop-coursera.git
+[submodule "hadoop-coursera"]
+	path = hadoop-coursera
+	url = https://github.com/waaaaaaai/hadoop-coursera.git
