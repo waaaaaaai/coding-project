@@ -33,7 +33,7 @@ define("VERSION", "2.4.2");
 // ***** uncomment for MySQL
 define("DBENGINE", "mysql");
 define("MYSQLUSER", "web");
-define("MYSQLPASS", "");
+define("MYSQLPASS", "foo.bar");
 define("MYSQLDB", "album");
 // *********************************
 
