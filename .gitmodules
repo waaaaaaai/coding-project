@@ -4,3 +4,6 @@
 [submodule "vue.js/vueinterface"]
 	path = vue.js/vueinterface
 	url = https://github.com/waaaaaaai/vueinterface.git
+[submodule "portfolio/hadoop-coursera"]
+	path = portfolio/hadoop-coursera
+	url = https://github.com/waaaaaaai/hadoop-coursera.git
